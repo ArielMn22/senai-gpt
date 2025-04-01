@@ -5,6 +5,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    font-family: "Inter";
 
 }
 
@@ -28,4 +29,10 @@
     width: 377px; /*largura*/
     border-radius: 10px; /* Arredonda as bordas */
     
+}
+
+button {
+
+    cursor: pointer;
+
 }
