@@ -4,7 +4,7 @@ O **senai-gpt** é um projeto simples desenvolvido com **HTML, CSS e JavaScript*
 Você pode acessar a aplicação diretamente pelo link abaixo:
 
 🔗 **Acesse o projeto publicado:**  
-👉 [senai-gpt - Chat](https://arielmn22.github.io/senai-gpt/chat/)
+👉 [senai-gpt-web - Chat](https://arielmn22.github.io/senai-gpt-web/chat/)
 
 ![image](https://github.com/user-attachments/assets/6c220959-a7dc-4260-a77d-fa0dab1db8b8)
 
